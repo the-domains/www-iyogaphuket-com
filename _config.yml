@@ -1,0 +1,28 @@
+name: www.iyogaphuket.com
+favicon: null
+layout_spectrum: 0.5323526740539819
+typography_spectrum: 0.28263018606230617
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8443980582524091
+  lightness: 0.4451147108338773
+  saturation: 0.6401763632893562
+  rhythmicContrast: 0.33773538866080344
+purpose: []
